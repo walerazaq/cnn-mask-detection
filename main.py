@@ -183,4 +183,3 @@ for i in random.sample(range(len(test_images)), 5):
         plt.show()
     print(f"Image {i+1} done...")
     print('-'*50)
-#test
